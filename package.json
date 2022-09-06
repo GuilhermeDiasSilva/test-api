@@ -1,0 +1,17 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "Criar um api\r - [] iniciar o projeto `npm init -y`\r - [] Instalar as dependencias `npm i express nodemon cors axios`\r - [] criar uma rota para acessar a Api\r - [] Servir a Api\r - [] Habilitar o CORS\r - [] Habilitar o nodemon para reiniciar o server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Dias",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
